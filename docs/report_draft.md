@@ -434,9 +434,9 @@ python -m venv .venv
 
 # 参考文献
 
-1. 谢希仁. 计算机网络（第 8 版）[M]. 北京: 电子工业出版社, 2021.
-2. Postel J. Internet Protocol: RFC 791[S]. IETF, 1981.
-3. Deering S, Hinden R. Internet Protocol, Version 6 (IPv6) Specification: RFC 8200[S]. IETF, 2017.
-4. Scapy documentation[EB/OL]. https://scapy.readthedocs.io/, 2026.
-5. Npcap user's guide[EB/OL]. https://npcap.com/guide/, 2026.
-6. Qt for Python (PySide6) documentation[EB/OL]. https://doc.qt.io/qtforpython/, 2026.
+1. 袁华, 王昊翔, 黄敏. 深入理解计算机网络[M]. 北京: 清华大学出版社, 2024.
+2. 谢希仁. 计算机网络: 第 8 版[M]. 北京: 电子工业出版社, 2021.
+3. deadrock. Qt 的模型/视图[EB/OL]. (2022-03-06)[2026-11-19]. https://www.cnblogs.com/deadrock/p/15976538.html.
+4. yang_chen_shi_wo. Wireshark 的 pcapng 文件格式[EB/OL]. (2015-07-01)[2026-11-19]. https://blog.csdn.net/yang_chen_shi_wo/article/details/46710961.
+5. Python 软件基金会. Python 3 中文文档[EB/OL]. [2026-11-19]. https://docs.python.org/zh-cn/3/.
+6. 阿里云计算有限公司. 云服务器 ECS 文档[EB/OL]. [2026-11-19]. https://help.aliyun.com/zh/ecs/.
