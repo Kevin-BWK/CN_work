@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.spec
+data/
+logs/
+artifacts/
+*.pcap
+*.pcapng
+*.csv
+*.log
+*.egg-info/
