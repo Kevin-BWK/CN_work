@@ -27,7 +27,7 @@
 - [分工与任务书信息](docs/04_分工与任务书.md)
 - [课程设计报告](docs/FlowLens课程设计报告.docx)（正文源文件 `docs/report_draft.md`）
 - [使用手册](docs/FlowLens使用手册.docx)（源文件 `docs/manual.md`）
-- [答辩 PPT](docs/FlowLens答辩.pptx)
+- [展示 PPT](docs/FlowLens展示.pptx)
 - [报告图与 draw.io 源文件](docs/figures/)
 
 ## 本机环境
